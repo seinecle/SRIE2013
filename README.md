@@ -39,7 +39,7 @@ We create art on computers. We design, prototype, print in 3D even, all from our
 We find partners with online dating websites, call them on Skype, text them with Whatsapp.
 We learn from Jstor, Wikipedia, communicate with students with dedicated online platform such as the Blackboard, 
 We find our way with Google maps, check if it's going to rain in the next 10 minutes with BuitenRadar, 
-We buy stuff on Amazon and resell them on Ebay or Marketplatz, and we get clues about which restaurant, hotel, or holiday destination to go to by comparing online descriptions and rankings. 
+We buy stuff on Amazon and resell them on Ebay or Marktplaats.nl, and we get clues about which restaurant, hotel, or holiday destination to go to by comparing online descriptions and rankings. 
 We socialize on Twitter and FoursQuare. We find jobs on LinkedIn, and reconnect with old friends on Facebook.
 And since a few years, all of that extended from the desktop computer to the mobile phone, and now the tablets, waiting for the glasses.
 
