@@ -1,15 +1,15 @@
 #How I learned to stop worrying and love the digital humanities
-by Clement Levallois. Notes for presentation to SURF Research and Innovation Event 2013
+by [Clement Levallois](http://www.clementlevallois.net). Notes for presentation to [SURF Research and Innovation Event 2013] (http://www.surfsites.nl/srie13/), 28 Feb 2013.
 
 ##Why should we care about the digital humanities?
 The computers have been around since the 1940s!, and from the start some applications for the humanities came along.
-I quote from the "History of Humanities Computing" by Susan Hockey:
+I quote from the "History of Humanities Computing" by [Susan Hockey](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1):
 
 [NEXT SLIDE] Picture of Father Roberto Busa
 
-"In 1949, an Italian Jesuit priest, Father Roberto Busa, began what even to this day is a monumental task: to make an index verborum of all the words in the works of St Thomas Aquinas and related authors, totaling some 11 million words of medieval Latin. The entire texts were gradually transferred to punched cards and a concordance program written for the project".
+"In 1949, an Italian Jesuit priest, [Father Roberto Busa](http://digitalcommons.unl.edu/classicsfacpub/70/), began what even to this day is a monumental task: to make an index verborum of all the words in the works of St Thomas Aquinas and related authors, totaling some 11 million words of medieval Latin. The entire texts were gradually transferred to punched cards and a concordance program written for the project".
 
-Still taken from this history of the digital humanities by Susan Hockey, statisticians Mosteller and Wallace (1964) tried to decipher who was the main author of 12 of the Federalist Papers, this famous set of 85 essays written collectively by the fathers of the American constitution. They performed an exercise in computer-based authorship investigation, so when you think of it, computer-based stylometry is 50 years old
+Still taken from this history of the digital humanities by Susan Hockey, statisticians [Mosteller and Wallace (1964)](http://books.google.nl/books?id=g7wbAQAAMAAJ) tried to decipher who was the main author of 12 of the Federalist Papers, this famous set of 85 essays written collectively by the fathers of the American constitution. They performed an exercise in computer-based authorship investigation, so when you think of it, computer-based stylometry is 50 years old!
 
 [NEXT SLIDE] Picture of Computer, Machine of the Year 1982
 
@@ -45,9 +45,9 @@ And since a few years, all of that extended from the desktop computer to the mob
 
 Now, what are the humanities dealing with?
 
-The Oxford English Dictionary includes this definition of the humanities: "The branch of learning concerned with human culture".
+The Oxford English Dictionary includes [this definition](http://www.oed.com/view/Entry/89280) of the humanities: "The branch of learning concerned with human culture".
 
-So that's a major turn, this is a major difference with just 10 years ago, the digital humanities have a reason to be: there is a digital culture to be studied. What difference does it make? Let's take an example: I am currently studying with co-authors Ale Smidts and Paul Wouters the emergence of neuromarketing, a new domain of knowledge involving neuroscientists and marketers, that appeared in the early 2000s. We are interested in the media representations of neuromarketing. So did we look at the NY Times, de NRC, the Guardian etc? Yes, but we also realized that these journals are today a tiny subsample of the places where news making happens.
+So that's a major turn, this is a major difference with just 10 years ago, the digital humanities have a reason to be: there is a digital culture to be studied. What difference does it make? Let's take an example: I am currently studying with co-authors Ale Smidts and Paul Wouters [the emergence of neuromarketing](http://www.clementlevallois.net/sandbox/timeline/index.html), a new domain of knowledge involving neuroscientists and marketers, that appeared in the early 2000s. We are interested in the media representations of neuromarketing. So did we look at the NY Times, de NRC, the Guardian etc? Yes, but we also realized that these journals are today a tiny subsample of the places where news making happens.
 
 Blogs, internet forums, commercial websites, tweets, the homepage of academics, the advertisements on your Facebook page etc... The world wide web is today a major source of news reporting and news making. To evaluate and understand a cultural phenomenon it is essential to take these sources into account. It takes quite some effort to dig into it, but ignoring it would mean ignoring an important component of what culture is made of.
 
@@ -55,7 +55,7 @@ Working on digital content quickly opens the issue of, which research methods ar
 
 [NEXT SLIDE] Pictures of brains in Dutch media
 
-This is not an isolated example, we currently have another project looking at the place of neuroscience in contemporary culture. So last autumn I went through 300,000 pages of the NRC and the Telegraaf, taking issues from the past 25 years, looking for brains and photographying them.
+This is not an isolated example, we currently have [another project](http://nesshi.eu) looking at the place of neuroscience in contemporary culture. So last autumn I went through 300,000 pages of the NRC and the Telegraaf, taking issues from the past 25 years, looking for brains and photographying them.
 
 
 No computer can do that. Human collection is precise and that's invaluable, as anybody who had to clean bad data knows.
@@ -72,12 +72,12 @@ But in my view, it is worth insisting on other kind of contributions that comput
 Unnamed sound sculpture:
 http://vimeo.com/38850289#
 
-And this is just one example because we don't have much time, I'll provide another one at the end. Let's continue with the acknowledgment that the "digital humanities" is so much more than doing number crunching on massive datasets. I mentioned the digital as provider of beauty, here is another one: story-telling. So far, scholars in the humanities tell their stories mainly through books, academic articles, conference presentations and the like. The digital turn is certaingly helping these forms of story telling to improve (online repositories, collabs, enhanced publications, etc.), but it can also provide entirely new forms of story telling. Visual interfaces, such as a web interfaces, remain largely unexplored in their possibilities, even if the capabilities are clearly there:
+And this is just one example, if we have time I'll provide another one at the end. Let's continue with the acknowledgment that the "digital humanities" is so much more than doing number crunching on massive datasets. I mentioned the digital as provider of beauty, here is another one: story-telling. So far, scholars in the humanities tell their stories mainly through books, academic articles, conference presentations and the like. The digital turn is certaingly helping these forms of story telling to improve (online repositories, collabs, enhanced publications, etc.), but it can also provide entirely new forms of story telling. Visual interfaces, such as a web interfaces, remain largely unexplored in their possibilities, even if the capabilities are clearly there:
 
 Aaronetrope:
 http://www.aaronkoblin.com/Aaronetrope/ (launch "Future")
 
-Stanford's two installations co-created with Elijah Meeks the last two years, ORBIS and the Republic of Letters, are examples of achievements in this domain, where the scholarly study blends with the user interface and the underlying data. The general point I want to make here is that the computer sciences bring the very helpful concept of "user interfaces" and "user experience" (UI and UX in their jargon), which forces them to think of how the product they build is going to be perceived and effectively used by the intended audience. The humanities could enlist this help to develop creations that would be even more engaging, meaningful and beautiful.
+Stanford's two installations co-created with [Elijah Meeks](https://dhs.stanford.edu/author/emeeks/) the last two years, [ORBIS](http://orbis.stanford.edu/) and the [Republic of Letters](https://republicofletters.stanford.edu/tools/), are examples of achievements in this domain, where the scholarly study blends with the user interface and the underlying data. The general point I want to make here is that the computer sciences bring the very helpful concept of "user interfaces" and "user experience" (UI and UX in their jargon), which forces them to think of how the product they build is going to be perceived and effectively used by the intended audience. The humanities could enlist this help to develop creations that would be even more engaging, meaningful and beautiful.
 
 There would be so many things to add, but I'd like to leave room for questioms, and finish with a discussion of "why are the digital humanities arriving on your campus soon". The humanities are not alone in experiencing a digital turn, other disciplines follow the same trend, and industries too. I mean, we can see that today, with all these presentations, or reading the Harvard Business Review about how data scientists are the next big thing. In practice though, when you look at our universities (in the Netherlands and abroad), there is a quasi-absence of curriculum training future researchers and professionals in the digital side of their specialties. I watch these developments closely and my personal impression is that surprisingly maybe, the humanities are taking a strong lead in it, ahead of the social sciences and the natural sciences. That might have to do with text and language being so central to the humanities, which are core aspects of the digital turn. Or to the fact that humanities are close to libraries and library science, which have a head start in dealing with metadata, large databases and information retrieval. In any case, the result is that the digital humanities have developed a strong network of individual researchers and research centers, to the point that "the digital humanities" are now becoming synonymous with the digital approach to a variety of social issues, not only the humanities. And since the interest in digital scholarship in society is increasing, not decreasing, I would expect that new initiatives in this domain will place themselves under the banner of the digital humanities.
 
