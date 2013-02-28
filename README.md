@@ -17,7 +17,7 @@ The Association for Computers and the Humanities was created in 1978, personal c
 
 So, what is suddenly so urgent today and novel about the digital humanities?
 
-I mean, we are not even sure that we would more computers brought interesting things. Economic historians will remember the cliometrics movement - the quantitative and statistical approach to historical studies. Did not really take off.
+I mean, we are not even sure that we more computers bring interesting things. Economic historians will remember the cliometrics movement - the quantitative and statistical approach to historical studies. Did not really take off.
 
 [NEXT SLIDE] Screenshot of a Turbo Pascal coding example
 
