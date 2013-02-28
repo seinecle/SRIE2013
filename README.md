@@ -84,7 +84,7 @@ So, the digital humanities are not doomed by computers that will "number crunch"
 
 A footnote here: I have nothing against number crunching, and other algorithmic alchemistry: I practice it myself and I find it fascinating.
 
-### Computers: so much more than sjust number crunchers
+### Computers: so much more than just number crunchers
 But in my view, it is worth insisting on other kinds of contributions that computers make to the humanities. To see that we must look at computers differently, not just number crunchers. We must also agree that the humanities are not only the learning concerned with human culture, but also the creation of new forms of culture. Artistic performances, installations in museums, the recitation of a poem, are closely associated with the humanities: other sciences might be concerned with the objective and the causal but the humanities deal with the meaningful, the inspiring, and the beautiful. If so, the digital turn in the humanities leads to the creation of beautiful things indeed. Take some talented programmers, three Microsoft Kinect, and a dancer:
 
 Unnamed sound sculpture:
