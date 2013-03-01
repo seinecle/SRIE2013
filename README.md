@@ -11,7 +11,7 @@ I quote from the "History of Humanities Computing" by [Susan Hockey](http://www.
 
 [NEXT SLIDE] Picture of Father Roberto Busa
 
-"In 1949, an Italian Jesuit priest, [Father Roberto Busa](http://digitalcommons.unl.edu/classicsfacpub/70/), began what even to this day is a monumental task: to make an index verborum of all the words in the works of St Thomas Aquinas and related authors, totaling some 11 million words of medieval Latin. The entire texts were gradually transferred to punched cards and a concordance program written for the project".
+"In 1949, an Italian Jesuit priest, [Father Roberto Busa](http://digitalcommons.unl.edu/classicsfacpub/70/), began what even to this day is a monumental task: to make anï¿½index verborumï¿½of all the words in the works of St Thomas Aquinas and related authors, totaling some 11 million words of medieval Latin. The entire texts were gradually transferred to punched cards and a concordance program written for the project".
 
 Still taken from this history of the digital humanities by Susan Hockey, statisticians [Mosteller and Wallace (1964)](http://books.google.nl/books?id=g7wbAQAAMAAJ) tried to decipher who was the main author of 12 of the Federalist Papers, this famous set of 85 essays written collectively by the fathers of the American constitution. They performed an exercise in computer-based authorship investigation, so when you think of it, computer-based stylometry is 50 years old!
 
@@ -43,17 +43,17 @@ We check our bank statements online, pay our taxes online, check in and check ou
 
 [Just an aside here: even walking leaves a digital trace, I found out. Want to be scared? If you have a Google account, check www.google.com/latitude]
 
-We use a GPS when driving to a new destination.
-We take our pics with a digital camera, share them online, and rarely print them.
-We create art on computers. We design, prototype, print in 3D even, all from our computers.
-We find partners with online dating websites, call them on Skype, text them with Whatsapp.
-We learn from Jstor, Wikipedia, communicate with students with dedicated online platform such as the Blackboard, 
-We find our way with Google maps, check if it's going to rain in the next 10 minutes with BuitenRadar, 
-We buy stuff on Amazon and resell them on Ebay or Marktplaats.nl, and we get clues about which restaurant, hotel, or holiday destination to go to by comparing online descriptions and rankings. 
-We socialize on Twitter and Foursquare. We find jobs on LinkedIn, and reconnect with old friends on Facebook.
-And since a few years, all of that extended from the desktop computer to the mobile phone, and now the tablets, waiting for the glasses that Google is developing.
+We use a GPS when driving to a new destination.  
+We take our pics with a digital camera, share them online, and rarely print them.  
+We create art on computers. We design, prototype, print in 3D even, all from our computers.  
+We find partners with online dating websites, call them on Skype, text them with Whatsapp.  
+We learn from Jstor, Wikipedia, communicate with students with dedicated online platform such as the Blackboard,   
+We find our way with Google maps, check if it's going to rain in the next 10 minutes with BuitenRadar,   
+We buy stuff on Amazon and resell them on Ebay or Marktplaats.nl, and we get clues about which restaurant, hotel, or holiday destination to go to by comparing online descriptions and rankings.   
+We socialize on Twitter and Foursquare. We find jobs on LinkedIn, and reconnect with old friends on Facebook.  
+And since a few years, all of that extended from the desktop computer to the mobile phone, and now the tablets, waiting for the glasses that Google is developing.  
 
-Let me say it again: in the last 15 years, human cultural activities, at least in economically advanced countries, have increasingly been conducted in a digital form, leaving digital traces.
+Let me say it again: in the last 15 years, human cultural activities, at least in economically advanced countries, have increasingly been conducted in a digital form, leaving digital traces.  
 
 Now, what are the humanities dealing with?
 
@@ -114,5 +114,5 @@ After my presentation yesterday, somebody in the audience asked, "but is this ki
 
 I heard chuckles in the audience, so I understood that I had missed something. That kept me thinking. Surely the question was, at the bottom, "beauty, invention and performances are all fine, but how can it be justified to the department chair / the funding body / the research evaluation agencies?" Ohhh, that....!!
 
-So let me rephrase my answer: your department chair will love you for that. The reason is that this kind of DH fits the Golden Triangle of Impact: interesting publications get written on the way, social relevance is at the heart of these DH projects, and it brings material departments and schools can easily communicate about. That should make of the digital humanities a hot candidate for any department.
+So let me rephrase my answer: your department chair will love you for that. The reason is that this kind of DH fits the Golden Triangle of Impact^TM^: interesting publications get written on the way, social relevance is at the heart of these DH projects, and it brings material departments and schools can easily communicate about. That should make of the digital humanities a hot candidate for any department.
 
