@@ -1,6 +1,8 @@
 #How I learned to stop worrying and love the digital humanities
 by [Clement Levallois](http://www.clementlevallois.net). Notes for presentation to [SURF Research and Innovation Event 2013] (http://www.surfsites.nl/srie13/), 28 Feb.
 
+Slides accompanying this text are available separately [here](http://www.slideshare.net/Stichting_SURF/how-i-learned-to-stop-worrying-and-love-the-digital-humanities).
+
 [NEXT SLIDE] my current interests
 
 ##Why should we care about the digital humanities?
@@ -106,3 +108,11 @@ Van Gogh's Starry Night:
 http://vimeo.com/36466564
 
 [Next slide] Final slide.
+<a name="ps"/>
+## Post-scriptum: the Golden Triangle of Impact
+After my presentation yesterday, somebody in the audience asked, "but is this kind of digital humanities (concerned with inventive user interfaces, beauty, and creating artful forms) fitting in departments of universities?". To which I replied that it was a matter of taste, and that I'd love to join a department which embraced this conception of the digital humanities.
+
+I heard chuckles in the audience, so I understood that I had missed something. That kept me thinking. Surely the question was, at the bottom, "beauty, invention and performances are all fine, but how can it be justified to the department chair / the funding body / the research evaluation agencies?" Ohhh, that....!!
+
+So let me rephrase my answer: your department chair will love you for that. The reason is that this kind of DH fits the Golden Triangle of Impact: interesting publications get written on the way, social relevance is at the heart of these DH projects, and it brings material departments and schools can easily communicate about. That should make of the digital humanities a hot candidate for any department.
+
