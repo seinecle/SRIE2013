@@ -17,6 +17,7 @@ I quote from the "History of Humanities Computing" by [Susan Hockey](http://www.
 Still taken from this history of the digital humanities by Susan Hockey, statisticians [Mosteller and Wallace (1964)](http://books.google.nl/books?id=g7wbAQAAMAAJ) tried to decipher who was the main author of 12 of the Federalist Papers, this famous set of 85 essays written collectively by the fathers of the American constitution. They performed an exercise in computer-based authorship investigation, so when you think of it, computer-based stylometry is 50 years old!
 
 [NEXT SLIDE] Picture of Computer, Machine of the Year 1982
+![Time Cover](http://clementlevallois.net/srie13/computer machine of the year.jpg "Time Cover")
 
 The Association for Computers and the Humanities was created in 1978, personal computers are 30 years old, and Internet and the World Wide Web are around for a quarter of century now.
 
@@ -25,6 +26,7 @@ So, what is suddenly so urgent today and novel about the digital humanities?
 I mean, we are not even sure that more computers always bring interesting things. Economic historians will remember the cliometrics movement - the quantitative and statistical approach to historical studies. Did not really take off.
 
 [NEXT SLIDE] Screenshot of a Turbo Pascal coding example
+![Turbo Pascal](http://clementlevallois.net/srie13/turbo_pascal.png "Turbo Pascal screenshot")
 
 Other might remember learning the PASCAL or BASIC programming languages at some point in their childhood? Hours of instructions to learn how to draw a triangle on a screen? That was the time in the 80's when some parents thought that "children should learn Japanese and computers to stay ahead in the competitive economy" - turned out it was very unnecessary. [they should have learnt Chinese...]
 
@@ -109,6 +111,7 @@ Van Gogh's Starry Night:
 http://vimeo.com/36466564
 
 [Next slide] Final slide.
+![Dr. StrangeLove](http://clementlevallois.net/srie13/StrangeLove.jpg "Dr. StrangeLove movie poster")
 <a name="ps"/>
 ## Post-scriptum: the Golden Triangle of Impact
 After my presentation yesterday, somebody in the audience asked, "but is this kind of digital humanities (concerned with inventive user interfaces, beauty, and creating artful forms) fitting in departments of universities?". To which I replied that it was a matter of taste, and that I'd love to join a department which embraced this conception of the digital humanities.
