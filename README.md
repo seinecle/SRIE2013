@@ -10,7 +10,7 @@ The computers have been around since the 1940s!, and from the start some applica
 I quote from the "History of Humanities Computing" by [Susan Hockey](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1):
 
 [NEXT SLIDE] Picture of Father Roberto Busa
-<img href="http://clementlevallois.net/srie13/busa.jpg"/>
+![Father Busa](http://clementlevallois.net/srie13/busa.jpg "Father Busa")
 
 "In 1949, an Italian Jesuit priest, [Father Roberto Busa](http://digitalcommons.unl.edu/classicsfacpub/70/), began what even to this day is a monumental task: to make an *index verborum* of all the words in the works of St Thomas Aquinas and related authors, totaling some 11 million words of medieval Latin. The entire texts were gradually transferred to punched cards and a concordance program written for the project".
 
