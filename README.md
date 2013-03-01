@@ -11,7 +11,7 @@ I quote from the "History of Humanities Computing" by [Susan Hockey](http://www.
 
 [NEXT SLIDE] Picture of Father Roberto Busa
 
-"In 1949, an Italian Jesuit priest, [Father Roberto Busa](http://digitalcommons.unl.edu/classicsfacpub/70/), began what even to this day is a monumental task: to make an�index verborum�of all the words in the works of St Thomas Aquinas and related authors, totaling some 11 million words of medieval Latin. The entire texts were gradually transferred to punched cards and a concordance program written for the project".
+"In 1949, an Italian Jesuit priest, [Father Roberto Busa](http://digitalcommons.unl.edu/classicsfacpub/70/), began what even to this day is a monumental task: to make an *index verborum* of all the words in the works of St Thomas Aquinas and related authors, totaling some 11 million words of medieval Latin. The entire texts were gradually transferred to punched cards and a concordance program written for the project".
 
 Still taken from this history of the digital humanities by Susan Hockey, statisticians [Mosteller and Wallace (1964)](http://books.google.nl/books?id=g7wbAQAAMAAJ) tried to decipher who was the main author of 12 of the Federalist Papers, this famous set of 85 essays written collectively by the fathers of the American constitution. They performed an exercise in computer-based authorship investigation, so when you think of it, computer-based stylometry is 50 years old!
 
