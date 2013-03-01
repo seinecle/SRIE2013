@@ -114,5 +114,5 @@ After my presentation yesterday, somebody in the audience asked, "but is this ki
 
 I heard chuckles in the audience, so I understood that I had missed something. That kept me thinking. Surely the question was, at the bottom, "beauty, invention and performances are all fine, but how can it be justified to the department chair / the funding body / the research evaluation agencies?" Ohhh, that....!!
 
-So let me rephrase my answer: your department chair will love you for that. The reason is that this kind of DH fits the Golden Triangle of Impact (TM): interesting publications get written on the way, social relevance is at the heart of these DH projects, and it brings material departments and schools can easily communicate about. That should make of the digital humanities a hot candidate for any department.
+So let me rephrase my answer: your department chair will love you for that. The reason is that this kind of DH fits the Golden Triangle of Impact <sup>TM</sup>: interesting publications get written on the way, social relevance is at the heart of these DH projects, and it brings material departments and schools can easily communicate about. That should make of the digital humanities a hot candidate for any department.
 
